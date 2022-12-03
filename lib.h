@@ -1,1 +1,2 @@
 
+bool primi(int); 
